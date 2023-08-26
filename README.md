@@ -13,7 +13,7 @@
   <li>Efficiency</li>
   <li>Platform Dependency</li>
   <li>Learning Curve</li>
-  <li>LAssembler</li>
+  <li>Assembler</li>
 </ul>
 <hr></hr>
 
