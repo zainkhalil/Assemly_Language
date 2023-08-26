@@ -20,4 +20,18 @@
 <h3>RESORCES:</h3>
 <b>PLAYLIST</b> <a href="https://www.youtube.com/playlist?list=PL7B2bn3G_wfCC2HDSXtMFsskasZ5fdLXz">SIR ARIF BUTT</a><br>
 <b>RESOURCE BOOK</b> : ASSEMBLY LANGUAGE PROGRAMMING WITH UBUNTU-2019
+<hr></hr>
+
+<h3>Compilation Process:</h3>
+<pre>
+  <b>COMPILER NAME: "NASM"</b>
+  <ul>
+    <li>nasm -felf64 filename.nasm</li>
+    <li>ld filename.o -o executable_filename</li>
+    <li>./executable_filename</li>
+  </ul>
+</pre>
+<hr></hr>
+
+
 
