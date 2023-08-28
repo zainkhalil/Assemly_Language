@@ -33,5 +33,14 @@
 </pre>
 <hr></hr>
 
+<h3>Order of Learning Assembly Language</h3>
+<ol>
+  <li>Understanding structure of an Assembly Program</li>
+  <li>Understanding and using gdb </li>
+  <li>Datatypes and Endian</li>
+  <li>MOV statements and Stack working{Push and Pop functions)</li>
+  <li>Arithemetic functions</li>
+</ol>
+
 
 
