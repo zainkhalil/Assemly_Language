@@ -39,7 +39,8 @@
   <li>Understanding and using gdb </li>
   <li>Datatypes and Endian</li>
   <li>MOV statements and Stack working{Push and Pop functions)</li>
-  <li>Arithemetic functions</li>
+  <li>Arithemetic Operators</li>
+  <li>Logical Operators</li>
 </ol>
 
 
