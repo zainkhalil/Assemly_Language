@@ -41,6 +41,12 @@
   <li>MOV statements and Stack working{Push and Pop functions)</li>
   <li>Arithemetic Operators</li>
   <li>Logical Operators</li>
+  <li>Bitshift and Bitrotation</li>
+  <li>Control Instructions</li>
+  <li>Logical Operators</li>
+  <li>Functions in Assembly</li>
+  <li>Mixing C with Assembly </li>
+  <li>User input and providing output using CMD </li>
 </ol>
 
 
